@@ -1,0 +1,26 @@
+{
+  "name": "ramalamadingdong",
+  "version": "1.0.0",
+  "description": "mysql database",
+  "main": "dingdong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richwesley/RamaLamaDingDong.git"
+  },
+  "author": "RC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richwesley/RamaLamaDingDong/issues"
+  },
+  "homepage": "https://github.com/richwesley/RamaLamaDingDong#readme",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "app": "^0.1.0",
+    "cli-table": "^0.3.1",
+    "express": "^4.15.3",
+    "mysql": "^2.13.0"
+  }
+}
